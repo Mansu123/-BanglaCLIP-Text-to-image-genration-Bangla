@@ -1,0 +1,16 @@
+torch
+transformers
+diffusers
+torch
+transformers
+diffusers
+gradio
+numpy
+requests
+setuptools
+sentencepiece
+protobuf
+accelerate
+scipy
+safetensors
+huggingface-hub
