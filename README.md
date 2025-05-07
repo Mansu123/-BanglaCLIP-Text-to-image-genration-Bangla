@@ -2,7 +2,6 @@
 
 
 
-Our BanglaClip Link : https://huggingface.co/Mansuba/BanglaCLIP13
 ![image](https://github.com/user-attachments/assets/6cfb459b-eafe-493d-bc68-0212f31928fe)
 ![image](https://github.com/user-attachments/assets/82355a20-3a98-4a1d-bfa5-3f1aee0350d2)
 
@@ -10,6 +9,6 @@ We developed BanglaCLIP, a vision-language model tailored for Bengali, to addres
 
 web app : https://huggingface.co/spaces/Mansuba/Bangla_text_to_image_app
 
-colab link : https://colab.research.google.com/drive/1soNm71jsn_IQ2jwDme2g1JULgWmAb45w?usp=sharing
+Our BanglaClip Link : https://huggingface.co/Mansuba/BanglaCLIP13
 
 
